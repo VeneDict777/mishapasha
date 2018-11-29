@@ -2,3 +2,5 @@ alpha
 beta
 gamma
 delta
+sigma
+omega
